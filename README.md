@@ -16,3 +16,4 @@ you will need only 2 images
 1) character without eyes
 ![yuriwoeyes](https://user-images.githubusercontent.com/35966791/40912612-b3ba4248-680f-11e8-9158-2d817d8e9cc9.png)
 2) eyes
+![eyes](https://user-images.githubusercontent.com/35966791/40912623-bc9576ee-680f-11e8-8f2e-060f8d1dc039.png)
