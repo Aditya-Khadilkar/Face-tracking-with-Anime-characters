@@ -9,3 +9,10 @@ Now get the file "YURI FULLSCREEN.py" form ths repository on your computer.
 save the yuri2.bmp and eyes images and give the path for these images in the code (you can also use your own waifus if you want)
 download haarcascade and give its location in the code.
 Run the code and have fun with your waifu ... weeb
+
+Make your own:
+
+you will need only 2 images
+1) character without eyes
+![yuriwoeyes](https://user-images.githubusercontent.com/35966791/40912612-b3ba4248-680f-11e8-9158-2d817d8e9cc9.png)
+2) eyes
