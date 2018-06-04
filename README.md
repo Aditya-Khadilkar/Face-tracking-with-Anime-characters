@@ -6,6 +6,6 @@ Requirements:
   install OpenCV, os, math, ctypes, time, pygame (you will probably only need to download OpenCV and Pygame)
   
 Now get the file "YURI FULLSCREEN.py" form ths repository on your computer.
-save the yuriwoeyes and eyes images and give the path for these images in the code (you can also use your own waifus if you want)
-
+save the yuri2.bmp and eyes images and give the path for these images in the code (you can also use your own waifus if you want)
+download haarcascade and give its location in the code.
 Run the code and have fun with your waifu ... weeb
