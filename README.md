@@ -20,10 +20,11 @@ you will need only 2 images
  just use those images instead and you are good to go!
 
 <h1>Version 2 </h1>
-I have added few new files: </b>
-yuriblush.py (Because we dont give spaces in file names :) )
-Yuri blush.png
-Yuri cute.png
-Yuriceyes.png
 
-the process is the same as above. 
+I have added few new files: 
+yuriblush.py (Because we dont give spaces in file names :) ),
+Yuri blush.png,
+Yuri cute.png,
+Yuriceyes.png,
+
+The process is the same as above. Copy paste the paths and you are good!
