@@ -22,6 +22,7 @@ you will need only 2 images
 <h1>Version 2: Yuri now has proximity </h1>
 <p>
   If you move your face close to the webcam, she blushes!
+  ![yuri blush](https://user-images.githubusercontent.com/35966791/41169627-3358001c-6b67-11e8-98f1-32f721e609af.png)
   I have added few new files: 
   yuriblush.py (Because we dont give spaces in file names :) ),
   Yuri blush.png,
