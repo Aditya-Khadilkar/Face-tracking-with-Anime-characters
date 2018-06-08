@@ -31,4 +31,6 @@ you will need only 2 images
 
   The process is the same as above, instead of downloading YURI FULLSCREEN.py use yuriblush.py. Copy paste the paths and you are good!
 </p>
+
+![yuri cute](https://user-images.githubusercontent.com/35966791/41169629-339facf0-6b67-11e8-9420-bdadb48b51eb.png)
 ![yuri blush](https://user-images.githubusercontent.com/35966791/41169627-3358001c-6b67-11e8-98f1-32f721e609af.png)
