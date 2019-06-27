@@ -88,10 +88,10 @@ def rotate_point(pos, img, angle):
 gameDisplay = show_yuri_image(scl, scb)
 running = True
 while running:
-##    event = pygame.event.wait ()
-##    pressed = pygame.key.get_pressed()
-##    if(pressed[pygame.K_q]):
-##        running = False
+    event = pygame.event.wait ()
+    pressed = pygame.key.get_pressed()
+    if(pressed[pygame.K_q]):
+        running = False
 
     ret, imgn = camera.read()
     img = cv2.flip(imgn, +1)
