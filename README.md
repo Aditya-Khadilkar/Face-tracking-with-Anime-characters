@@ -16,7 +16,7 @@ Make your own:
 
 you will need only 2 images
 1) character without eyes
-![yuriwoeyes](yuri2.png)
+![yuriwoeyes](yuri2.bmp)
 2) eyes
 ![eyes](eyes.png)
  just use those images instead and you are good to go!
