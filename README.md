@@ -26,7 +26,7 @@ you will need only 2 images
   If you move your face close to the webcam, she blushes!
   <br>
   I have added few new files: 
-  yuriblush.py (Because we dont give spaces in file names :) ),
+  yuriblush.py (Because we don't give spaces in file names :) ),
   Yuri blush.png,
   Yuri cute.png,
   Yuriceyes.png,
