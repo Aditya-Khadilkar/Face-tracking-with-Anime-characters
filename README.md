@@ -9,7 +9,7 @@ Requirements:
  - Numpy
  - PyGame
 
-Now get the file "yuriblush.py" from this repository on your computer.
+Clone this repository and run yuriblush.py
 The pictures given below are saved in the assets folder.(you can also use your own waifus if you want)
 Run the code and have fun with your waifu ... weeb
 
@@ -31,3 +31,6 @@ Just run the yuriblush.py file and you're good!
 
 ![yuri cute](assets/demo_blush.gif)
 
+<h1>Featured in articles:</h1>
+<a href = "https://analyticsindiamag.com/top-7-anime-based-open-source-projects/">analyticsindiamag</a>
+<a href = "https://medium.mybridge.co/36-amazing-python-open-source-projects-v-2019-2fe058d79450">Medium</a>
