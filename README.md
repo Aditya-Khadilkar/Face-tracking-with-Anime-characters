@@ -32,5 +32,5 @@ Just run the yuriblush.py file and you're good!
 ![yuri cute](assets/demo_blush.gif)
 
 <h1>Featured in articles:</h1>
-<a href = "https://analyticsindiamag.com/top-7-anime-based-open-source-projects/">analyticsindiamag</a>
-<a href = "https://medium.mybridge.co/36-amazing-python-open-source-projects-v-2019-2fe058d79450">Medium</a>
+<h3><a href = "https://analyticsindiamag.com/top-7-anime-based-open-source-projects/">analyticsindiamag</a><br>
+<a href = "https://medium.mybridge.co/36-amazing-python-open-source-projects-v-2019-2fe058d79450">Medium</a></h3>
