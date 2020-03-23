@@ -24,14 +24,8 @@ you will need only 2 images
 
 <h1>Version 2: Yuri now has proximity </h1>
 <p>
-  If you move your face close to the webcam, she blushes!
-  <br>
-  I have added few new files: 
-  - yuriblush.py (Because we dont give spaces in file names :) ),
-  - yuri_blush.png,
-  - yuri_cute.png,
-  - yuri_eyes.png,
-
+If you move your face close to the webcam, she blushes!
+<br>
 Just run the yuriblush.py file and you're good!
 </p>
 
